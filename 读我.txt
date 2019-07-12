@@ -1,2 +1,0 @@
-主要是存一些自己做的Mathematica小程序模?演示。
-1.InvertedPendulum.nb是一?倒立?的??学模?。
